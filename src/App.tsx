@@ -17,7 +17,7 @@ function App() {
   //It works to take controll of the players turn
   const players = {
     X: '⭐',
-    O: '⭕',
+    O: '❄',
   };
 
   // this carry the players state

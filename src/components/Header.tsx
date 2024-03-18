@@ -8,7 +8,7 @@ export default function Header({ currentPlayer, clearBoard }: { currentPlayer: s
     <div className='menu-container'>
 
       <div className='players-container'>
-        ⭐⭕
+        ⭐❄
       </div>
 
       <div>

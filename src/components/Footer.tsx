@@ -9,7 +9,7 @@ export default function Footer({xWinCounter, tiesCounter, yWinCounter }:{xWinCou
     <footer>
 
       <div className="XwinnerCounter">
-        X  <br/>
+      ⭐  <br/>
         {xWinCounter}
       </div>
       <div className="tiesCounter">
@@ -17,7 +17,7 @@ export default function Footer({xWinCounter, tiesCounter, yWinCounter }:{xWinCou
       {tiesCounter}
       </div>
       <div className="YwinnerCounter">
-      Y<br/>
+      ❄<br/>
       {yWinCounter}
       </div>
     </footer>
